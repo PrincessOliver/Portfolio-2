@@ -32,6 +32,7 @@ public class AdjacencyListGraph {
             System.out.println(" ");
         }
     }
+    //Prims created with help from Bjørn Utzon
     public void Prims(){
 
         MinHeap<Vertex> Q= new MinHeap<>();
